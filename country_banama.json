@@ -1,0 +1,618 @@
+{"countries": {
+ "AI": {
+"companies": "30",
+"intermediary": "1",
+"officer": "140" 
+},
+ "AD": {
+"companies": "6",
+"intermediary": "4",
+"officer": "5" 
+},
+ "AE": {
+"companies": "365",
+"intermediary": "54",
+"officer": "425" 
+},
+ "AR": {
+"companies": "24",
+"intermediary": "19",
+"officer": "50" 
+},
+ "AG": {
+"companies": "23",
+"intermediary": "5",
+"officer": "19" 
+},
+ "AU": {
+"companies": "656",
+"intermediary": "166",
+"officer": "606" 
+},
+ "AT": {
+"companies": "36",
+"intermediary": "8",
+"officer": "29" 
+},
+ "AZ": {
+"companies": "37",
+"intermediary": "1",
+"officer": "36" 
+},
+ "BE": {
+"companies": "71",
+"intermediary": "18",
+"officer": "73" 
+},
+ "BD": {
+"companies": "23",
+"intermediary": "2",
+"officer": "32" 
+},
+ "BG": {
+"companies": "11",
+"intermediary": "1",
+"officer": "11" 
+},
+ "BH": {
+"companies": "11",
+"intermediary": "2",
+"officer": "15" 
+},
+ "BS": {
+"companies": "116",
+"intermediary": "27",
+"officer": "154" 
+},
+ "BY": {
+"companies": "31",
+"intermediary": "2",
+"officer": "28" 
+},
+ "BZ": {
+"companies": "58",
+"intermediary": "2",
+"officer": "141" 
+},
+ "BM": {
+"companies": "70",
+"intermediary": "7",
+"officer": "134" 
+},
+ "BR": {
+"companies": "43",
+"intermediary": "5",
+"officer": "48" 
+},
+ "BB": {
+"companies": "12",
+"intermediary": "4",
+"officer": "9" 
+},
+ "BN": {
+"companies": "29",
+"intermediary": "9",
+"officer": "33" 
+},
+ "CA": {
+"companies": "633",
+"intermediary": "144",
+"officer": "534" 
+},
+ "CH": {
+"companies": "384",
+"intermediary": "353",
+"officer": "343" 
+},
+ "CL": {
+"companies": "20",
+"intermediary": "6",
+"officer": "41" 
+},
+ "CN": {
+"companies": "7865",
+"intermediary": "397",
+"officer": "8853" 
+},
+ "CK": {
+"companies": "140",
+"intermediary": "28",
+"officer": "379" 
+},
+ "CO": {
+"companies": "13",
+"intermediary": "8",
+"officer": "17" 
+},
+ "CR": {
+"companies": "11",
+"intermediary": "21",
+"officer": "6" 
+},
+ "CW": {
+"companies": "21",
+"intermediary": "3",
+"officer": "22" 
+},
+ "KY": {
+"companies": "257",
+"intermediary": "25",
+"officer": "449" 
+},
+ "CY": {
+"companies": "896",
+"intermediary": "72",
+"officer": "1026" 
+},
+ "CZ": {
+"companies": "36",
+"intermediary": "8",
+"officer": "32" 
+},
+ "DE": {
+"companies": "187",
+"intermediary": "32",
+"officer": "218" 
+},
+ "DK": {
+"companies": "15",
+"intermediary": "2",
+"officer": "14" 
+},
+ "DO": {
+"companies": "11",
+"intermediary": "4",
+"officer": "14" 
+},
+ "EC": {
+"companies": "5",
+"intermediary": "27",
+"officer": "6" 
+},
+ "EG": {
+"companies": "20",
+"intermediary": "3",
+"officer": "26" 
+},
+ "ES": {
+"companies": "71",
+"intermediary": "35",
+"officer": "73" 
+},
+ "EE": {
+"companies": "10",
+"intermediary": "3",
+"officer": "8" 
+},
+ "FI": {
+"companies": "21",
+"intermediary": "3",
+"officer": "26" 
+},
+ "FJ": {
+"companies": "15",
+"intermediary": "7",
+"officer": "9" 
+},
+ "FR": {
+"companies": "164",
+"intermediary": "39",
+"officer": "171" 
+},
+ "GB": {
+"companies": "848",
+"intermediary": "216",
+"officer": "835" 
+},
+ "GE": {
+"companies": "10",
+"intermediary": "1",
+"officer": "9" 
+},
+ "GG": {
+"companies": "89",
+"intermediary": "13",
+"officer": "119" 
+},
+ "GH": {
+"companies": "5",
+"intermediary": "3",
+"officer": "3" 
+},
+ "GI": {
+"companies": "47",
+"intermediary": "17",
+"officer": "165" 
+},
+ "GR": {
+"companies": "58",
+"intermediary": "11",
+"officer": "59" 
+},
+ "GD": {
+"companies": "4",
+"intermediary": "2",
+"officer": "1" 
+},
+ "HK": {
+"companies": "11901",
+"intermediary": "2973",
+"officer": "12643" 
+},
+ "HR": {
+"companies": "10",
+"intermediary": "1",
+"officer": "8" 
+},
+ "HU": {
+"companies": "18",
+"intermediary": "8",
+"officer": "18" 
+},
+ "ID": {
+"companies": "2401",
+"intermediary": "508",
+"officer": "2458" 
+},
+ "IM": {
+"companies": "27",
+"intermediary": "27",
+"officer": "55" 
+},
+ "IN": {
+"companies": "515",
+"intermediary": "36",
+"officer": "632" 
+},
+ "IE": {
+"companies": "52",
+"intermediary": "14",
+"officer": "43" 
+},
+ "IR": {
+"companies": "5",
+"intermediary": "1",
+"officer": "5" 
+},
+ "IS": {
+"companies": "1",
+"intermediary": "1",
+"officer": "2" 
+},
+ "IL": {
+"companies": "143",
+"intermediary": "22",
+"officer": "154" 
+},
+ "IT": {
+"companies": "87",
+"intermediary": "7",
+"officer": "96" 
+},
+ "JE": {
+"companies": "162",
+"intermediary": "26",
+"officer": "270" 
+},
+ "JP": {
+"companies": "474",
+"intermediary": "34",
+"officer": "531" 
+},
+ "KZ": {
+"companies": "86",
+"intermediary": "6",
+"officer": "84" 
+},
+ "KE": {
+"companies": "10",
+"intermediary": "2",
+"officer": "11" 
+},
+ "KN": {
+"companies": "55",
+"intermediary": "3",
+"officer": "99" 
+},
+ "KR": {
+"companies": "12",
+"intermediary": "2",
+"officer": "12" 
+},
+ "KW": {
+"companies": "23",
+"intermediary": "9",
+"officer": "19" 
+},
+ "LA": {
+"companies": "3",
+"intermediary": "1",
+"officer": "2" 
+},
+ "LB": {
+"companies": "10",
+"intermediary": "5",
+"officer": "11" 
+},
+ "LI": {
+"companies": "56",
+"intermediary": "15",
+"officer": "65" 
+},
+ "LK": {
+"companies": "32",
+"intermediary": "3",
+"officer": "41" 
+},
+ "LU": {
+"companies": "23",
+"intermediary": "10",
+"officer": "38" 
+},
+ "LV": {
+"companies": "67",
+"intermediary": "7",
+"officer": "63" 
+},
+ "MO": {
+"companies": "100",
+"intermediary": "12",
+"officer": "110" 
+},
+ "MC": {
+"companies": "53",
+"intermediary": "23",
+"officer": "67" 
+},
+ "MD": {
+"companies": "23",
+"intermediary": "1",
+"officer": "22" 
+},
+ "MX": {
+"companies": "36",
+"intermediary": "3",
+"officer": "43" 
+},
+ "MT": {
+"companies": "36",
+"intermediary": "10",
+"officer": "28" 
+},
+ "MM": {
+"companies": "15",
+"intermediary": "1",
+"officer": "17" 
+},
+ "MU": {
+"companies": "102",
+"intermediary": "29",
+"officer": "117" 
+},
+ "MW": {
+"companies": "8",
+"intermediary": "1",
+"officer": "9" 
+},
+ "MY": {
+"companies": "1509",
+"intermediary": "336",
+"officer": "1491" 
+},
+ "NF": {
+"companies": "1",
+"intermediary": "1",
+"officer": "1" 
+},
+ "NU": {
+"companies": "3",
+"intermediary": "2",
+"officer": "5" 
+},
+ "NL": {
+"companies": "99",
+"intermediary": "13",
+"officer": "91" 
+},
+ "NO": {
+"companies": "26",
+"intermediary": "8",
+"officer": "26" 
+},
+ "NP": {
+"companies": "10",
+"intermediary": "1",
+"officer": "13" 
+},
+ "NZ": {
+"companies": "199",
+"intermediary": "66",
+"officer": "171" 
+},
+ "OM": {
+"companies": "3",
+"intermediary": "1",
+"officer": "2" 
+},
+ "PK": {
+"companies": "23",
+"intermediary": "2",
+"officer": "40" 
+},
+ "PA": {
+"companies": "224",
+"intermediary": "46",
+"officer": "285" 
+},
+ "PE": {
+"companies": "8",
+"intermediary": "4",
+"officer": "15" 
+},
+ "PH": {
+"companies": "365",
+"intermediary": "63",
+"officer": "527" 
+},
+ "PG": {
+"companies": "3",
+"intermediary": "2",
+"officer": "2" 
+},
+ "PL": {
+"companies": "15",
+"intermediary": "4",
+"officer": "16" 
+},
+ "KP": {
+"companies": "181",
+"intermediary": "30",
+"officer": "176" 
+},
+ "PT": {
+"companies": "16",
+"intermediary": "15",
+"officer": "14" 
+},
+ "PF": {
+"companies": "17",
+"intermediary": "4",
+"officer": "19" 
+},
+ "RO": {
+"companies": "17",
+"intermediary": "2",
+"officer": "16" 
+},
+ "RU": {
+"companies": "2190",
+"intermediary": "73",
+"officer": "2187" 
+},
+ "SA": {
+"companies": "22",
+"intermediary": "7",
+"officer": "38" 
+},
+ "SG": {
+"companies": "3923",
+"intermediary": "1244",
+"officer": "3867" 
+},
+ "SV": {
+"companies": "1",
+"intermediary": "8",
+"officer": "4" 
+},
+ "RS": {
+"companies": "21",
+"intermediary": "1",
+"officer": "22" 
+},
+ "SK": {
+"companies": "9",
+"intermediary": "1",
+"officer": "9" 
+},
+ "SI": {
+"companies": "11",
+"intermediary": "3",
+"officer": "14" 
+},
+ "SE": {
+"companies": "60",
+"intermediary": "15",
+"officer": "53" 
+},
+ "SC": {
+"companies": "138",
+"intermediary": "12",
+"officer": "245" 
+},
+ "SY": {
+"companies": "9",
+"intermediary": "2",
+"officer": "8" 
+},
+ "TC": {
+"companies": "21",
+"intermediary": "6",
+"officer": "24" 
+},
+ "TH": {
+"companies": "643",
+"intermediary": "180",
+"officer": "643" 
+},
+ "TT": {
+"companies": "3",
+"intermediary": "1",
+"officer": "2" 
+},
+ "TR": {
+"companies": "26",
+"intermediary": "5",
+"officer": "27" 
+},
+ "TW": {
+"companies": "12364",
+"intermediary": "1285",
+"officer": "15887" 
+},
+ "UA": {
+"companies": "160",
+"intermediary": "10",
+"officer": "163" 
+},
+ "UY": {
+"companies": "10",
+"intermediary": "17",
+"officer": "15" 
+},
+ "US": {
+"companies": "3769",
+"intermediary": "921",
+"officer": "3722" 
+},
+ "VE": {
+"companies": "115",
+"intermediary": "25",
+"officer": "178" 
+},
+ "VG": {
+"companies": "661",
+"intermediary": "55",
+"officer": "3948" 
+},
+ "VI": {
+"companies": "57",
+"intermediary": "7",
+"officer": "583" 
+},
+ "VN": {
+"companies": "98",
+"intermediary": "18",
+"officer": "92" 
+},
+ "VU": {
+"companies": "27",
+"intermediary": "6",
+"officer": "38" 
+},
+ "WS": {
+"companies": "74",
+"intermediary": "8",
+"officer": "574" 
+},
+ "ZA": {
+"companies": "76",
+"intermediary": "27",
+"officer": "87" 
+},
+ "ZW": {
+"companies": "5",
+"intermediary": "1",
+"officer": "8" 
+}
+}
+}
